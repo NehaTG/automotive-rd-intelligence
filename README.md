@@ -113,9 +113,9 @@ Before my MSc I worked for two years as a Business Analyst at Mercedes-Benz R&D 
 
 I'm currently looking for Data Analyst or Business Analyst roles in the UK. I'm on a Graduate Route visa so no sponsorship needed.
 
-📧 tgneha05@gmail.com
-🔗 LinkedIn: linkedin.com/in/neha-tg-04b615229
-📍 Guildford, UK
+tgneha05@gmail.com
+LinkedIn: https://linkedin.com/in/neha-tg-04b615229
+Guildford, UK
 
 ---
 
