@@ -1,0 +1,9 @@
+body,units_sold,market_share_pct,avg_price,avg_age_years
+Sedan,237385,43.81,11878.0,15.5
+Suv,142783,26.35,16230.0,16.0
+Hatchback,26066,4.81,10108.0,14.9
+Minivan,25158,4.64,11732.0,15.6
+Coupe,17318,3.2,16316.0,16.7
+Crew Cab,16391,3.03,21653.0,16.0
+Wagon,15868,2.93,10283.0,16.2
+Convertible,10367,1.91,18024.0,17.3

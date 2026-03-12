@@ -1,0 +1,4 @@
+powertrain,vehicles,avg_co2_kg_year,total_co2_tonnes,avg_carbon_cost_gbp
+EV,32,0.0,0.0,0.0
+Hybrid/ICE,193081,1378.03,266071.0,62.01
+ICE,348685,2085.06,727030.0,93.83
