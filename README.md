@@ -36,6 +36,11 @@ Finally I pulled everything into a Tableau dashboard with four views: sales over
 - The UK fleet is 32.99% behind ZEV mandate targets — there is a huge gap between policy ambition and actual adoption
 
 ---
+![Market Overview](market_overview.png)
+![ML Model](ml_model.png)
+![Sustainability](sustainability.png)
+
+---
 
 ## Tech Stack
 
