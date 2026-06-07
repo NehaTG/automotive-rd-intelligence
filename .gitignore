@@ -1,0 +1,7 @@
+data/
+database/
+outputs/
+*.duckdb
+*.db
+*.pkl
+*.csv

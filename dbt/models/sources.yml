@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: automotive
+    schema: main
+    tables:
+      - name: vehicle_sales
+        description: "Cleaned vehicle sales data from Python pipeline"
