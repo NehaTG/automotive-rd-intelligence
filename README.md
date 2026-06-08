@@ -39,9 +39,25 @@ It reflects the type of work I did during two years as a Data Engineer at Merced
 | Scikit-learn | Price prediction — tested Linear Regression, Random Forest, Gradient Boosting |
 | Matplotlib, Seaborn | Exploratory charts, sustainability visualisations |
 | Tableau Public | Interactive dashboard — live link above |
+| dbt | SQL transformation layer — models, schema tests, lineage documentation |
+| DuckDB | Local analytical database for dbt pipeline |
 | Jupyter + VSCode | Development environment |
-
 ---
+## dbt Transformation Layer
+
+The brand premium KPI is rebuilt as a production-grade dbt model, adding:
+- Structured SQL models with version control (`dbt/models/marts/`)
+- Automated schema testing via `dbt test`
+- Auto-generated data lineage documentation via `dbt docs`
+- DuckDB as the local analytical warehouse
+
+To run locally:
+```bash
+cd dbt
+dbt run
+dbt test
+dbt docs serve
+```
 
 ## Project Structure
 
