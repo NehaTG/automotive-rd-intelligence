@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project builds a production-grade analytics pipeline for automotive R&D — covering data ingestion, validation, SQL-based KPI analysis, machine learning price prediction, and ESG sustainability modelling aligned to UK ZEV mandate targets.
+This project builds a production-grade analytics pipeline for automotive R&D covering data ingestion, validation, SQL-based KPI analysis, machine learning price prediction, and ESG sustainability modelling aligned to UK ZEV mandate targets.
 It reflects the type of work I did during two years as a Data Engineer at Mercedes-Benz R&D India: building Python ETL pipelines over large-scale datasets, delivering KPI dashboards to cross-functional stakeholders, and validating data at enterprise scale. The difference here is the full stack is visible and reproducible.
 
 ---
@@ -88,11 +88,11 @@ Run the cells in order — each section builds on the previous one.
 
 ## Background
 
-I'm Neha — a Data Engineer and MSc Business Analytics candidate at the University of Surrey, Guildford, UK.
+I'm Neha, a Data Engineer and MSc Business Analytics candidate at the University of Surrey, Guildford, UK.
 
-Before my MSc I spent two years as a Data Engineer at Mercedes-Benz R&D India., where I built Python automation pipelines, managed Azure data workflows, and handled reconciliation across 500,000+ records. I also co-invented a patent for an intelligent system for automated data-driven content transmission.
+Before my MSc I spent two years as a Data Engineer at Mercedes-Benz R&D India, where I built Python automation pipelines, managed Azure data workflows, and handled reconciliation across 500,000+ records. I also co-invented a patent for an intelligent system for automated data-driven content transmission.
 
-I am currently on a PSW (Graduate Route) visa — I can start work in the UK immediately with no sponsorship required for the duration of the visa. I am open to Skilled Worker visa sponsorship for longer-term roles.
+I am currently on a PSW (Graduate Route) visa. I can start work in the UK immediately with no sponsorship required for the duration of the visa. I am open to Skilled Worker visa sponsorship for longer-term roles.
 
 tgneha05@gmail.com
 LinkedIn: https://linkedin.com/in/neha-tg-04b615229
